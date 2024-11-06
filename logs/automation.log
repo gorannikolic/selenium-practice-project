@@ -1,3 +1,242 @@
-2024-11-05 14:00:19 INFO  Utils:112 - [TestNG] Running:
+2024-11-06 11:19:12 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\gnikolic\AppData\Local\JetBrains\IntelliJIdea2022.2\temp-testng-customsuite.xml
+
+2024-11-06 11:19:58 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\gnikolic\AppData\Local\JetBrains\IntelliJIdea2022.2\temp-testng-customsuite.xml
+
+2024-11-06 11:20:54 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\gnikolic\AppData\Local\JetBrains\IntelliJIdea2022.2\temp-testng-customsuite.xml
+
+2024-11-06 11:23:51 INFO  Utils:112 - [TestNG] Running:
   C:\Users\gnikolic\IdeaProjects\OpencartV121\master.xml
 
+2024-11-06 11:24:01 INFO  TC001_AccountRegistrationTest:15 - ***** Starting TC001_AccountRegistrationTest  ****
+2024-11-06 11:24:01 INFO  TC001_AccountRegistrationTest:21 - Clicked on MyAccount Link.. 
+2024-11-06 11:24:01 INFO  TC001_AccountRegistrationTest:24 - Clicked on Register Link.. 
+2024-11-06 11:24:01 INFO  TC001_AccountRegistrationTest:28 - Providing customer details...
+2024-11-06 11:24:02 INFO  TC001_AccountRegistrationTest:42 - Validating expected message..
+2024-11-06 11:24:02 INFO  TC001_AccountRegistrationTest:47 - Test passed
+2024-11-06 11:24:02 INFO  TC001_AccountRegistrationTest:52 - ***** Finished TC001_AccountRegistrationTest *****
+2024-11-06 11:24:06 INFO  TC002_LoginTest:15 - ****** Starting TC_002_LoginTest *****
+2024-11-06 11:26:23 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\gnikolic\IdeaProjects\OpencartV121\master.xml
+
+2024-11-06 11:26:27 INFO  TC001_AccountRegistrationTest:15 - ***** Starting TC001_AccountRegistrationTest  ****
+2024-11-06 11:26:27 INFO  TC001_AccountRegistrationTest:21 - Clicked on MyAccount Link.. 
+2024-11-06 11:26:28 INFO  TC001_AccountRegistrationTest:24 - Clicked on Register Link.. 
+2024-11-06 11:26:28 INFO  TC001_AccountRegistrationTest:28 - Providing customer details...
+2024-11-06 11:26:29 INFO  TC001_AccountRegistrationTest:42 - Validating expected message..
+2024-11-06 11:26:29 INFO  TC001_AccountRegistrationTest:47 - Test passed
+2024-11-06 11:26:29 INFO  TC001_AccountRegistrationTest:52 - ***** Finished TC001_AccountRegistrationTest *****
+2024-11-06 11:26:33 INFO  TC002_LoginTest:15 - ****** Starting TC_002_LoginTest *****
+2024-11-06 11:26:49 INFO  TC003_LoginDDT:26 - ***** stating TC_003_LoginDDT ******
+2024-11-06 11:27:00 INFO  TC003_LoginDDT:26 - ***** stating TC_003_LoginDDT ******
+2024-11-06 11:27:05 INFO  TC003_LoginDDT:69 - ***** Finished TC_003_LoginDDT ******
+2024-11-06 11:27:05 INFO  TC003_LoginDDT:26 - ***** stating TC_003_LoginDDT ******
+2024-11-06 11:27:10 INFO  TC003_LoginDDT:69 - ***** Finished TC_003_LoginDDT ******
+2024-11-06 11:27:10 INFO  TC003_LoginDDT:26 - ***** stating TC_003_LoginDDT ******
+2024-11-06 11:27:24 INFO  TC003_LoginDDT:69 - ***** Finished TC_003_LoginDDT ******
+2024-11-06 11:27:24 INFO  TC003_LoginDDT:26 - ***** stating TC_003_LoginDDT ******
+2024-11-06 11:27:29 INFO  TC003_LoginDDT:69 - ***** Finished TC_003_LoginDDT ******
+2024-11-06 11:27:29 INFO  TC003_LoginDDT:26 - ***** stating TC_003_LoginDDT ******
+2024-11-06 11:27:43 INFO  TC003_LoginDDT:69 - ***** Finished TC_003_LoginDDT ******
+2024-11-06 11:58:30 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\gnikolic\IdeaProjects\OpencartV121\master.xml
+
+2024-11-06 11:58:40 INFO  TC001_AccountRegistrationTest:15 - ***** Starting TC001_AccountRegistrationTest  ****
+2024-11-06 11:58:40 INFO  TC001_AccountRegistrationTest:21 - Clicked on MyAccount Link.. 
+2024-11-06 11:58:41 INFO  TC001_AccountRegistrationTest:24 - Clicked on Register Link.. 
+2024-11-06 11:58:41 INFO  TC001_AccountRegistrationTest:28 - Providing customer details...
+2024-11-06 11:58:42 INFO  TC001_AccountRegistrationTest:42 - Validating expected message..
+2024-11-06 11:58:42 INFO  TC001_AccountRegistrationTest:47 - Test passed
+2024-11-06 11:58:42 INFO  TC001_AccountRegistrationTest:52 - ***** Finished TC001_AccountRegistrationTest *****
+2024-11-06 11:58:51 INFO  TC002_LoginTest:15 - ****** Starting TC_002_LoginTest *****
+2024-11-06 11:58:52 INFO  TC002_LoginTest:37 - ****** Finished TC_002_LoginTest *****
+2024-11-06 11:58:56 INFO  TC003_LoginDDT:26 - ***** stating TC_003_LoginDDT ******
+2024-11-06 11:59:10 INFO  TC003_LoginDDT:69 - ***** Finished TC_003_LoginDDT ******
+2024-11-06 11:59:10 INFO  TC003_LoginDDT:26 - ***** stating TC_003_LoginDDT ******
+2024-11-06 11:59:15 INFO  TC003_LoginDDT:69 - ***** Finished TC_003_LoginDDT ******
+2024-11-06 11:59:15 INFO  TC003_LoginDDT:26 - ***** stating TC_003_LoginDDT ******
+2024-11-06 11:59:20 INFO  TC003_LoginDDT:69 - ***** Finished TC_003_LoginDDT ******
+2024-11-06 11:59:20 INFO  TC003_LoginDDT:26 - ***** stating TC_003_LoginDDT ******
+2024-11-06 11:59:34 INFO  TC003_LoginDDT:69 - ***** Finished TC_003_LoginDDT ******
+2024-11-06 11:59:34 INFO  TC003_LoginDDT:26 - ***** stating TC_003_LoginDDT ******
+2024-11-06 11:59:39 INFO  TC003_LoginDDT:69 - ***** Finished TC_003_LoginDDT ******
+2024-11-06 11:59:39 INFO  TC003_LoginDDT:26 - ***** stating TC_003_LoginDDT ******
+2024-11-06 11:59:53 INFO  TC003_LoginDDT:69 - ***** Finished TC_003_LoginDDT ******
+2024-11-06 12:12:13 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\gnikolic\IdeaProjects\OpencartV121\grid-docker.xml
+
+2024-11-06 12:12:17 INFO  TC001_AccountRegistrationTest:15 - ***** Starting TC001_AccountRegistrationTest  ****
+2024-11-06 12:12:17 INFO  TC001_AccountRegistrationTest:21 - Clicked on MyAccount Link.. 
+2024-11-06 12:12:18 INFO  TC001_AccountRegistrationTest:24 - Clicked on Register Link.. 
+2024-11-06 12:12:18 INFO  TC001_AccountRegistrationTest:28 - Providing customer details...
+2024-11-06 12:12:19 INFO  TC001_AccountRegistrationTest:42 - Validating expected message..
+2024-11-06 12:12:19 INFO  TC001_AccountRegistrationTest:47 - Test passed
+2024-11-06 12:12:19 INFO  TC001_AccountRegistrationTest:52 - ***** Finished TC001_AccountRegistrationTest *****
+2024-11-06 12:12:22 INFO  TC002_LoginTest:15 - ****** Starting TC_002_LoginTest *****
+2024-11-06 12:12:23 INFO  TC002_LoginTest:37 - ****** Finished TC_002_LoginTest *****
+2024-11-06 12:12:27 INFO  TC003_LoginDDT:26 - ***** stating TC_003_LoginDDT ******
+2024-11-06 12:12:41 INFO  TC003_LoginDDT:69 - ***** Finished TC_003_LoginDDT ******
+2024-11-06 12:12:41 INFO  TC003_LoginDDT:26 - ***** stating TC_003_LoginDDT ******
+2024-11-06 12:12:47 INFO  TC003_LoginDDT:69 - ***** Finished TC_003_LoginDDT ******
+2024-11-06 12:12:47 INFO  TC003_LoginDDT:26 - ***** stating TC_003_LoginDDT ******
+2024-11-06 12:15:15 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\gnikolic\IdeaProjects\OpencartV121\grid-docker.xml
+
+2024-11-06 12:15:18 INFO  TC001_AccountRegistrationTest:15 - ***** Starting TC001_AccountRegistrationTest  ****
+2024-11-06 12:15:18 INFO  TC001_AccountRegistrationTest:21 - Clicked on MyAccount Link.. 
+2024-11-06 12:15:19 INFO  TC001_AccountRegistrationTest:24 - Clicked on Register Link.. 
+2024-11-06 12:15:19 INFO  TC001_AccountRegistrationTest:28 - Providing customer details...
+2024-11-06 12:15:20 INFO  TC001_AccountRegistrationTest:42 - Validating expected message..
+2024-11-06 12:15:20 INFO  TC001_AccountRegistrationTest:47 - Test passed
+2024-11-06 12:15:20 INFO  TC001_AccountRegistrationTest:52 - ***** Finished TC001_AccountRegistrationTest *****
+2024-11-06 12:15:28 INFO  TC002_LoginTest:15 - ****** Starting TC_002_LoginTest *****
+2024-11-06 12:15:31 INFO  TC002_LoginTest:37 - ****** Finished TC_002_LoginTest *****
+2024-11-06 12:15:36 INFO  TC003_LoginDDT:26 - ***** stating TC_003_LoginDDT ******
+2024-11-06 12:15:50 INFO  TC003_LoginDDT:69 - ***** Finished TC_003_LoginDDT ******
+2024-11-06 12:15:50 INFO  TC003_LoginDDT:26 - ***** stating TC_003_LoginDDT ******
+2024-11-06 12:15:56 INFO  TC003_LoginDDT:69 - ***** Finished TC_003_LoginDDT ******
+2024-11-06 12:15:56 INFO  TC003_LoginDDT:26 - ***** stating TC_003_LoginDDT ******
+2024-11-06 12:19:09 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\gnikolic\IdeaProjects\OpencartV121\master.xml
+
+2024-11-06 12:19:12 INFO  TC001_AccountRegistrationTest:15 - ***** Starting TC001_AccountRegistrationTest  ****
+2024-11-06 12:19:12 INFO  TC001_AccountRegistrationTest:21 - Clicked on MyAccount Link.. 
+2024-11-06 12:19:13 INFO  TC001_AccountRegistrationTest:24 - Clicked on Register Link.. 
+2024-11-06 12:19:13 INFO  TC001_AccountRegistrationTest:28 - Providing customer details...
+2024-11-06 12:19:14 INFO  TC001_AccountRegistrationTest:42 - Validating expected message..
+2024-11-06 12:19:14 INFO  TC001_AccountRegistrationTest:47 - Test passed
+2024-11-06 12:19:14 INFO  TC001_AccountRegistrationTest:52 - ***** Finished TC001_AccountRegistrationTest *****
+2024-11-06 12:19:18 INFO  TC002_LoginTest:15 - ****** Starting TC_002_LoginTest *****
+2024-11-06 12:19:19 INFO  TC002_LoginTest:37 - ****** Finished TC_002_LoginTest *****
+2024-11-06 12:19:23 INFO  TC003_LoginDDT:26 - ***** stating TC_003_LoginDDT ******
+2024-11-06 12:19:37 INFO  TC003_LoginDDT:69 - ***** Finished TC_003_LoginDDT ******
+2024-11-06 12:19:37 INFO  TC003_LoginDDT:26 - ***** stating TC_003_LoginDDT ******
+2024-11-06 12:19:42 INFO  TC003_LoginDDT:69 - ***** Finished TC_003_LoginDDT ******
+2024-11-06 12:19:42 INFO  TC003_LoginDDT:26 - ***** stating TC_003_LoginDDT ******
+2024-11-06 12:19:53 INFO  TC003_LoginDDT:26 - ***** stating TC_003_LoginDDT ******
+2024-11-06 12:20:08 INFO  TC003_LoginDDT:69 - ***** Finished TC_003_LoginDDT ******
+2024-11-06 12:20:08 INFO  TC003_LoginDDT:26 - ***** stating TC_003_LoginDDT ******
+2024-11-06 12:20:13 INFO  TC003_LoginDDT:69 - ***** Finished TC_003_LoginDDT ******
+2024-11-06 12:20:13 INFO  TC003_LoginDDT:26 - ***** stating TC_003_LoginDDT ******
+2024-11-06 12:20:27 INFO  TC003_LoginDDT:69 - ***** Finished TC_003_LoginDDT ******
+2024-11-06 12:21:48 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\gnikolic\IdeaProjects\OpencartV121\grid-docker.xml
+
+2024-11-06 12:21:52 INFO  TC001_AccountRegistrationTest:15 - ***** Starting TC001_AccountRegistrationTest  ****
+2024-11-06 12:21:52 INFO  TC001_AccountRegistrationTest:21 - Clicked on MyAccount Link.. 
+2024-11-06 12:21:53 INFO  TC001_AccountRegistrationTest:24 - Clicked on Register Link.. 
+2024-11-06 12:21:53 INFO  TC001_AccountRegistrationTest:28 - Providing customer details...
+2024-11-06 12:21:54 INFO  TC001_AccountRegistrationTest:42 - Validating expected message..
+2024-11-06 12:21:54 INFO  TC001_AccountRegistrationTest:47 - Test passed
+2024-11-06 12:21:54 INFO  TC001_AccountRegistrationTest:52 - ***** Finished TC001_AccountRegistrationTest *****
+2024-11-06 12:22:01 INFO  TC002_LoginTest:15 - ****** Starting TC_002_LoginTest *****
+2024-11-06 12:22:03 INFO  TC002_LoginTest:37 - ****** Finished TC_002_LoginTest *****
+2024-11-06 12:22:05 INFO  TC003_LoginDDT:26 - ***** stating TC_003_LoginDDT ******
+2024-11-06 12:22:20 INFO  TC003_LoginDDT:69 - ***** Finished TC_003_LoginDDT ******
+2024-11-06 12:22:20 INFO  TC003_LoginDDT:26 - ***** stating TC_003_LoginDDT ******
+2024-11-06 12:22:25 INFO  TC003_LoginDDT:69 - ***** Finished TC_003_LoginDDT ******
+2024-11-06 12:22:25 INFO  TC003_LoginDDT:26 - ***** stating TC_003_LoginDDT ******
+2024-11-06 12:22:37 INFO  TC003_LoginDDT:69 - ***** Finished TC_003_LoginDDT ******
+2024-11-06 12:22:37 INFO  TC003_LoginDDT:26 - ***** stating TC_003_LoginDDT ******
+2024-11-06 12:24:54 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\gnikolic\IdeaProjects\OpencartV121\grid-docker.xml
+
+2024-11-06 12:24:58 INFO  TC001_AccountRegistrationTest:15 - ***** Starting TC001_AccountRegistrationTest  ****
+2024-11-06 12:24:58 INFO  TC001_AccountRegistrationTest:21 - Clicked on MyAccount Link.. 
+2024-11-06 12:24:59 INFO  TC001_AccountRegistrationTest:24 - Clicked on Register Link.. 
+2024-11-06 12:24:59 INFO  TC001_AccountRegistrationTest:28 - Providing customer details...
+2024-11-06 12:25:00 INFO  TC001_AccountRegistrationTest:42 - Validating expected message..
+2024-11-06 12:25:00 INFO  TC001_AccountRegistrationTest:47 - Test passed
+2024-11-06 12:25:00 INFO  TC001_AccountRegistrationTest:52 - ***** Finished TC001_AccountRegistrationTest *****
+2024-11-06 12:25:03 INFO  TC002_LoginTest:15 - ****** Starting TC_002_LoginTest *****
+2024-11-06 12:25:05 INFO  TC002_LoginTest:37 - ****** Finished TC_002_LoginTest *****
+2024-11-06 12:25:08 INFO  TC003_LoginDDT:26 - ***** stating TC_003_LoginDDT ******
+2024-11-06 12:25:23 INFO  TC003_LoginDDT:69 - ***** Finished TC_003_LoginDDT ******
+2024-11-06 12:25:23 INFO  TC003_LoginDDT:26 - ***** stating TC_003_LoginDDT ******
+2024-11-06 12:25:28 INFO  TC003_LoginDDT:69 - ***** Finished TC_003_LoginDDT ******
+2024-11-06 12:25:28 INFO  TC003_LoginDDT:26 - ***** stating TC_003_LoginDDT ******
+2024-11-06 12:25:37 INFO  TC003_LoginDDT:69 - ***** Finished TC_003_LoginDDT ******
+2024-11-06 12:25:37 INFO  TC003_LoginDDT:26 - ***** stating TC_003_LoginDDT ******
+2024-11-06 12:39:49 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\gnikolic\IdeaProjects\OpencartV121\grid-docker.xml
+
+2024-11-06 12:39:52 INFO  TC001_AccountRegistrationTest:15 - ***** Starting TC001_AccountRegistrationTest  ****
+2024-11-06 12:39:52 INFO  TC001_AccountRegistrationTest:21 - Clicked on MyAccount Link.. 
+2024-11-06 12:39:53 INFO  TC001_AccountRegistrationTest:24 - Clicked on Register Link.. 
+2024-11-06 12:39:53 INFO  TC001_AccountRegistrationTest:28 - Providing customer details...
+2024-11-06 12:39:54 INFO  TC001_AccountRegistrationTest:42 - Validating expected message..
+2024-11-06 12:39:54 INFO  TC001_AccountRegistrationTest:47 - Test passed
+2024-11-06 12:39:54 INFO  TC001_AccountRegistrationTest:52 - ***** Finished TC001_AccountRegistrationTest *****
+2024-11-06 12:39:57 INFO  TC002_LoginTest:15 - ****** Starting TC_002_LoginTest *****
+2024-11-06 12:39:58 INFO  TC002_LoginTest:37 - ****** Finished TC_002_LoginTest *****
+2024-11-06 12:40:02 INFO  TC003_LoginDDT:26 - ***** stating TC_003_LoginDDT ******
+2024-11-06 12:40:17 INFO  TC003_LoginDDT:69 - ***** Finished TC_003_LoginDDT ******
+2024-11-06 12:40:17 INFO  TC003_LoginDDT:26 - ***** stating TC_003_LoginDDT ******
+2024-11-06 12:40:23 INFO  TC003_LoginDDT:69 - ***** Finished TC_003_LoginDDT ******
+2024-11-06 12:40:23 INFO  TC003_LoginDDT:26 - ***** stating TC_003_LoginDDT ******
+2024-11-06 12:43:19 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\gnikolic\IdeaProjects\OpencartV121\grid-docker.xml
+
+2024-11-06 12:43:23 INFO  TC001_AccountRegistrationTest:15 - ***** Starting TC001_AccountRegistrationTest  ****
+2024-11-06 12:43:23 INFO  TC001_AccountRegistrationTest:21 - Clicked on MyAccount Link.. 
+2024-11-06 12:43:23 INFO  TC001_AccountRegistrationTest:24 - Clicked on Register Link.. 
+2024-11-06 12:43:23 INFO  TC001_AccountRegistrationTest:28 - Providing customer details...
+2024-11-06 12:43:24 INFO  TC001_AccountRegistrationTest:42 - Validating expected message..
+2024-11-06 12:43:24 INFO  TC001_AccountRegistrationTest:47 - Test passed
+2024-11-06 12:43:24 INFO  TC001_AccountRegistrationTest:52 - ***** Finished TC001_AccountRegistrationTest *****
+2024-11-06 12:45:37 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\gnikolic\IdeaProjects\OpencartV121\grid-docker.xml
+
+2024-11-06 13:11:01 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\gnikolic\IdeaProjects\OpencartV121\grid-docker.xml
+
+2024-11-06 13:12:32 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\gnikolic\IdeaProjects\OpencartV121\grid-docker.xml
+
+2024-11-06 13:21:30 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\gnikolic\IdeaProjects\OpencartV121\grid-docker.xml
+
+2024-11-06 13:21:34 INFO  TC001_AccountRegistrationTest:15 - ***** Starting TC001_AccountRegistrationTest  ****
+2024-11-06 13:21:34 INFO  TC001_AccountRegistrationTest:21 - Clicked on MyAccount Link.. 
+2024-11-06 13:21:34 INFO  TC001_AccountRegistrationTest:24 - Clicked on Register Link.. 
+2024-11-06 13:21:34 INFO  TC001_AccountRegistrationTest:28 - Providing customer details...
+2024-11-06 13:21:36 INFO  TC001_AccountRegistrationTest:42 - Validating expected message..
+2024-11-06 13:21:36 INFO  TC001_AccountRegistrationTest:47 - Test passed
+2024-11-06 13:21:36 INFO  TC001_AccountRegistrationTest:52 - ***** Finished TC001_AccountRegistrationTest *****
+2024-11-06 13:21:38 INFO  TC002_LoginTest:15 - ****** Starting TC_002_LoginTest *****
+2024-11-06 13:21:40 INFO  TC002_LoginTest:37 - ****** Finished TC_002_LoginTest *****
+2024-11-06 13:21:43 INFO  TC003_LoginDDT:26 - ***** stating TC_003_LoginDDT ******
+2024-11-06 13:21:57 INFO  TC003_LoginDDT:69 - ***** Finished TC_003_LoginDDT ******
+2024-11-06 13:21:57 INFO  TC003_LoginDDT:26 - ***** stating TC_003_LoginDDT ******
+2024-11-06 13:22:02 INFO  TC003_LoginDDT:69 - ***** Finished TC_003_LoginDDT ******
+2024-11-06 13:22:02 INFO  TC003_LoginDDT:26 - ***** stating TC_003_LoginDDT ******
+2024-11-06 13:22:16 INFO  TC003_LoginDDT:69 - ***** Finished TC_003_LoginDDT ******
+2024-11-06 13:22:16 INFO  TC003_LoginDDT:26 - ***** stating TC_003_LoginDDT ******
+2024-11-06 13:22:31 INFO  TC003_LoginDDT:69 - ***** Finished TC_003_LoginDDT ******
+2024-11-06 13:22:31 INFO  TC003_LoginDDT:26 - ***** stating TC_003_LoginDDT ******
+2024-11-06 13:22:37 INFO  TC003_LoginDDT:69 - ***** Finished TC_003_LoginDDT ******
+2024-11-06 13:22:37 INFO  TC003_LoginDDT:26 - ***** stating TC_003_LoginDDT ******
+2024-11-06 13:22:51 INFO  TC003_LoginDDT:69 - ***** Finished TC_003_LoginDDT ******
+2024-11-06 13:22:57 INFO  TC001_AccountRegistrationTest:15 - ***** Starting TC001_AccountRegistrationTest  ****
+2024-11-06 13:22:57 INFO  TC001_AccountRegistrationTest:21 - Clicked on MyAccount Link.. 
+2024-11-06 13:22:58 INFO  TC001_AccountRegistrationTest:24 - Clicked on Register Link.. 
+2024-11-06 13:22:58 INFO  TC001_AccountRegistrationTest:28 - Providing customer details...
+2024-11-06 13:22:59 INFO  TC001_AccountRegistrationTest:42 - Validating expected message..
+2024-11-06 13:22:59 INFO  TC001_AccountRegistrationTest:47 - Test passed
+2024-11-06 13:22:59 INFO  TC001_AccountRegistrationTest:52 - ***** Finished TC001_AccountRegistrationTest *****
+2024-11-06 13:23:03 INFO  TC002_LoginTest:15 - ****** Starting TC_002_LoginTest *****
+2024-11-06 13:23:04 INFO  TC002_LoginTest:37 - ****** Finished TC_002_LoginTest *****
+2024-11-06 13:23:08 INFO  TC003_LoginDDT:26 - ***** stating TC_003_LoginDDT ******
+2024-11-06 13:23:23 INFO  TC003_LoginDDT:69 - ***** Finished TC_003_LoginDDT ******
+2024-11-06 13:23:23 INFO  TC003_LoginDDT:26 - ***** stating TC_003_LoginDDT ******
+2024-11-06 13:23:28 INFO  TC003_LoginDDT:69 - ***** Finished TC_003_LoginDDT ******
+2024-11-06 13:23:28 INFO  TC003_LoginDDT:26 - ***** stating TC_003_LoginDDT ******
+2024-11-06 13:23:42 INFO  TC003_LoginDDT:69 - ***** Finished TC_003_LoginDDT ******
+2024-11-06 13:23:42 INFO  TC003_LoginDDT:26 - ***** stating TC_003_LoginDDT ******
+2024-11-06 13:23:57 INFO  TC003_LoginDDT:69 - ***** Finished TC_003_LoginDDT ******
+2024-11-06 13:23:57 INFO  TC003_LoginDDT:26 - ***** stating TC_003_LoginDDT ******
+2024-11-06 13:24:02 INFO  TC003_LoginDDT:69 - ***** Finished TC_003_LoginDDT ******
+2024-11-06 13:24:02 INFO  TC003_LoginDDT:26 - ***** stating TC_003_LoginDDT ******
+2024-11-06 13:24:17 INFO  TC003_LoginDDT:69 - ***** Finished TC_003_LoginDDT ******

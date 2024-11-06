@@ -12,23 +12,23 @@ public class TC002_LoginTest extends BaseClass {
 
     @Test(groups = {"Sanity", "Master"})
     public void verify_login() {
-        logger.info("****** Startign TC_002_LoginTest *****");
+        logger.info("****** Starting TC_002_LoginTest *****");
 
         try {
             //HomePage
-            HomePage hp = new HomePage(driver);
-            hp.clickMyAccount();
-            hp.clickLogin();
+            HomePage homePage = new HomePage(driver);
+            homePage.clickMyAccount();
+            homePage.clickLogin();
 
             //Login
-            LoginPage lp = new LoginPage(driver);
-            lp.setEmail(p.getProperty("email"));
-            lp.setPassword(p.getProperty("password"));
-            lp.clickLogin();
+            LoginPage loginPage = new LoginPage(driver);
+            loginPage.setEmail(p.getProperty("email"));
+            loginPage.setPassword(p.getProperty("password"));
+            loginPage.clickLogin();
 
             //MyAccount
-            MyAccountPage macc = new MyAccountPage(driver);
-            boolean targetPage = macc.isMyAccountPageExists();
+            MyAccountPage myAccountPage = new MyAccountPage(driver);
+            boolean targetPage = myAccountPage.isMyAccountPageExists();
 
             Assert.assertTrue(targetPage);//Assert.assertEquals(targetPage, true,"Login failed");
         } catch (Exception e) {

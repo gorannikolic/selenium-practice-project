@@ -20,31 +20,31 @@ Data is invalid - login success - test fail  - logout
 
 public class TC003_LoginDDT extends BaseClass {
 
-    @Test(dataProvider = "LoginData", dataProviderClass = DataProviders.class, groups = "Datadriven")
+    @Test(dataProvider = "LoginData", dataProviderClass = DataProviders.class, groups = "DataDriven")
 // getting data provider from different class
-    public void verify_loginDDT(String email, String pwd, String exp) throws InterruptedException {
+    public void verify_loginDDT(String email, String password, String expectedResult) throws InterruptedException {
         logger.info("***** stating TC_003_LoginDDT ******");
 
         try {
             //HomePage
-            HomePage hp = new HomePage(driver);
-            hp.clickMyAccount();
-            hp.clickLogin();
+            HomePage homePage = new HomePage(driver);
+            homePage.clickMyAccount();
+            homePage.clickLogin();
 
             //Login
-            LoginPage lp = new LoginPage(driver);
-            lp.setEmail(email);
-            lp.setPassword(pwd);
-            lp.clickLogin();
+            LoginPage loginPage = new LoginPage(driver);
+            loginPage.setEmail(email);
+            loginPage.setPassword(password);
+            loginPage.clickLogin();
 
             //MyAccount
-            MyAccountPage macc = new MyAccountPage(driver);
-            boolean targetPage = macc.isMyAccountPageExists();
+            MyAccountPage myAccountPage = new MyAccountPage(driver);
+            boolean targetPage = myAccountPage.isMyAccountPageExists();
 
 
-            if (exp.equalsIgnoreCase("Valid")) {
+            if (expectedResult.equalsIgnoreCase("Valid")) {
                 if (targetPage == true) {
-                    macc.clickLogout();
+                    myAccountPage.clickLogout();
                     Assert.assertTrue(true);
 
                 } else {
@@ -52,9 +52,9 @@ public class TC003_LoginDDT extends BaseClass {
                 }
             }
 
-            if (exp.equalsIgnoreCase("Invalid")) {
-                if (targetPage == true) {
-                    macc.clickLogout();
+            if (expectedResult.equalsIgnoreCase("Invalid")) {
+                if (targetPage) {
+                    myAccountPage.clickLogout();
                     Assert.assertTrue(false);
 
                 } else {

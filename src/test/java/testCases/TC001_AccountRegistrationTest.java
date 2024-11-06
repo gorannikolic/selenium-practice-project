@@ -16,11 +16,11 @@ public class TC001_AccountRegistrationTest extends BaseClass {
         logger.debug("This is a debug log message");
         try {
 
-            HomePage hp = new HomePage(driver);
-            hp.clickMyAccount();
+            HomePage homePage = new HomePage(driver);
+            homePage.clickMyAccount();
             logger.info("Clicked on MyAccount Link.. ");
 
-            hp.clickRegister();
+            homePage.clickRegister();
             logger.info("Clicked on Register Link.. ");
 
             AccountRegistrationPage regpage = new AccountRegistrationPage(driver);
